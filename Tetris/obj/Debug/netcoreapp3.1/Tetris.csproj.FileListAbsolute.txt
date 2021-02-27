@@ -1,0 +1,12 @@
+/Users/eomhuiyong/Projects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.deps.json
+/Users/eomhuiyong/Projects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.runtimeconfig.json
+/Users/eomhuiyong/Projects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.runtimeconfig.dev.json
+/Users/eomhuiyong/Projects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.dll
+/Users/eomhuiyong/Projects/Tetris/Tetris/bin/Debug/netcoreapp3.1/Tetris.pdb
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.csprojAssemblyReference.cache
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.AssemblyInfoInputs.cache
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.AssemblyInfo.cs
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.csproj.CoreCompileInputs.cache
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.dll
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.pdb
+/Users/eomhuiyong/Projects/Tetris/Tetris/obj/Debug/netcoreapp3.1/Tetris.genruntimeconfig.cache

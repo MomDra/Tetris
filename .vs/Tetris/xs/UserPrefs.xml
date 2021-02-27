@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AB09553F-BB0E-4486-B9E9-89155DBE8E2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tetris PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tetris/BlockData.cs">
+    <Files>
+      <File FileName="Tetris/Program.cs" Line="25" Column="33" />
+      <File FileName="Tetris/TScreen.cs" Line="96" Column="10" />
+      <File FileName="Tetris/Block.cs" Line="13" Column="9" />
+      <File FileName="Tetris/BlockDir.cs" Line="1" Column="1" />
+      <File FileName="Tetris/BlockType.cs" Line="6" Column="33" />
+      <File FileName="Tetris/BlockData.cs" Line="191" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tetris" expanded="True">
+            <Node name="Tetris" expanded="True">
+              <Node name="BlockData.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
